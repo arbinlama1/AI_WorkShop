@@ -1,0 +1,12 @@
+.venv
+.idea
+*.log
+.env
+.DS_Store
+node_modules
+dist
+build
+_pycache_
+*.pyc
+converage
+.vscode
