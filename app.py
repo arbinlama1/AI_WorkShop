@@ -46,4 +46,4 @@ student_socre = [85, 67, 95, 50]
 
 # list comprehension(poserul feature!)
 passing_score = [score for score in student_socre if score >= 80]
-print("/Passing scores (>=80): ", passing_score)
+print("Passing scores (>=80): ", passing_score)
